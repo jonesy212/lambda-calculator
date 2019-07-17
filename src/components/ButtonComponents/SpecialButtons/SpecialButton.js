@@ -1,9 +1,12 @@
 import React from "react";
 
-const SpecialButton = () => {
+
+const SpecialButton = (props) => {
   return (
    <div>
-     Specials
+     {props.specialContent}
    </div>
   );
 };
+
+export default SpecialButton
