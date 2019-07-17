@@ -1,0 +1,12 @@
+.container {
+    
+    width: 400px;
+    height: 600px;
+    background: rgb(194, 21, 21);
+
+}   
+
+.display {
+    width: 350px;
+    height: 90px;
+}
